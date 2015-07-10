@@ -12,7 +12,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 1.1.3.sec=Le Salarié déclare formellement être libre de tout engagement et n'être lié par aucune clause de non concurrence avec un précédent employeur.
 
-1.1.=[Z/Sec/s3]
+1.1.=[Z/paras/s3]
 
 1.2.sec=Le présent contrat est soumis aux dispositions de la convention collective nationale des Bureaux d'Etudes Techniques, Cabinets d'Ingénieurs-conseils, sociétés de conseil, dite SYNTEC-CICF du 15 décembre 1987 étendue et complétée, (Brochure JO n°3018 – IDCC 1486) (ci-après : la « Convention Collective »), accessible sur le site internet Légifrance et dont un exemplaire est à la disposition des salariés dans les locaux de l'entreprise.
 
@@ -20,7 +20,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 1.3.1.sec=En application de la loi n° 78-17 du 6 janvier 1978 dite « Informatique et Libertés », le Salarié dispose d'un droit d'accès et de rectification des informations portées sur ce document, qu'il peut exercer auprès de l'URSSAF de {P1.URSSAF.Ville}.
 
-1.3.=[Z/Sec/s1]
+1.3.=[Z/paras/s1]
 
 1.=[Z/Sec/s3]
 
@@ -64,7 +64,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 5.2.1.sec=Le Salarié déclare avoir pris connaissance de la présente clause de mobilité, et donne son consentement à toute mutation, provisoire ou définitive, qui pourrait intervenir à la demande de l'employeur, en application de son pouvoir de direction, dans la zone géographique telle que définie à la présente clause.
 
-5.2.=[Z/Sec/s1]
+5.2.=[Z/paras/s1]
 
 5.3.sec=De plus, compte tenu de la nature de ses fonctions, le Salarié accepte, en fonction des besoins de la Société, de se déplacer régulièrement en France.
 
@@ -140,7 +140,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 12.1.2.sec=Toute contestation sur l'application du présent article est soumise au tribunal de grande instance du siège social de l'employeur. »
 
-12.1.=[Z/Sec/s2]
+12.1.=[Z/paras/s2]
 
 12.2.1.sec=S'agissant des œuvres autres que les logiciels et développements informatiques, le Salarié s'engage à céder à la Société, à titre exclusif, pour le monde entier et pour toute la durée légale du droit d'auteur, ses droits patrimoniaux d'auteur sur les œuvres de toute nature qu'il pourra être amené à créer au cours de l'exécution du présent contrat (ci-après dénommées les « Œuvres »), quelle que soit la nature de sa collaboration auxdites Œuvres.
 
@@ -164,7 +164,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 12.2.2.9.sec=Le droit d'autoriser un tiers à procéder aux exploitations susvisées et plus généralement, de céder et/ou concéder aux tiers tout ou partie des droits présentement cédés.
 
-12.2.2.=[Z/Sec/s9]
+12.2.2.=[Z/paras/s9]
 
 12.2.3.sec=La cession visée ci-dessus sera réalisée automatiquement, au fur et à mesure de la conception des Œuvres, sans aucune formalité.
 
@@ -180,7 +180,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 12.3.3.sec=Dans tous les cas, le Salarié s'engage à fournir toute l'assistance ainsi que tous les documents et signatures utiles et à effectuer toutes les démarches qui s'avéreraient nécessaires aux fins du dépôt, de l'exploitation ou de la défense de ces brevets.
 
-12.3.=[Z/Sec/s3]
+12.3.=[Z/paras/s3]
 
 12.=[Z/Sec/s3]
 
@@ -196,7 +196,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 13.2.3.sec=dans les cas de rupture anticipée visés à l'article 9 du présent contrat.
 
-13.2.=[Z/Sec/s3]
+13.2.=[Z/paras/s3]
 
 13.=[Z/Sec/s2]
 
@@ -226,7 +226,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 14.2.2.=[Z/para/s1]
 
-14.2.=[Z/Sec/s2]
+14.2.=[Z/paras/s2]
 
 14.3.1.sec=La Société pourra être amenée à confier au Salarié des fichiers et documents divers (études, documentation, correspondances, tarifs, dossiers clients, …) en dépôt, pour en faire un usage déterminé et strictement professionnel. Le Salarié s'interdit en conséquence d'en faire un usage autre que celui autorisé par la Société et s'oblige à les restituer sur simple demande et en tout état de cause en fin de contrat.
 
@@ -234,7 +234,7 @@ Note=**IL A ETE CONVENU CE QUI SUIT :**
 
 14.3.3.sec=Le Salarié s'interdit, par ailleurs, de prendre, en vue de son usage personnel ou de tout autre usage non autorisé expressément par la Société, des documents ou des reproductions de tous documents, des copies de supports informatiques, audio ou vidéo, des biens de toute nature appartenant à la Société ou confiés par elle.
 
-14.3.=[Z/Sec/s3]
+14.3.=[Z/paras/s3]
 
 14.4.sec=A l'expiration du présent contrat, pour quelque cause que ce soit, le Salarié devra restituer immédiatement les biens de toute nature, les fichiers et documents divers qui auraient pu lui être confiés, ainsi que toutes copies et reproductions en sa possession, sans qu'il soit besoin d'une demande ou d'une mise en demeure préalable.
 
@@ -257,3 +257,7 @@ Signatures précédées de la mention manuscrite «Lu et approuvé»
 =[Z/Sec/15]
 
 « Modèles Jurismatic fournis sous licence Creative Commons BY-NC-SA 3.0 FR » Des changements ont eu lieu par rapport aux textes originaux.
+
+DocBody=<!DOCTYPE html><html><head><style>li (Curly-)margin: 15px;(-Curly) ol (Curly-)list-style-type: decimal; (-Curly) ol ol (Curly-)list-style-type: none;(-Curly) ol ol ol (Curly-)list-style-type: disc;(-Curly)</style></head><body>{Doc}</body>
+
+PageName=FR/Jurismatic/CDD/CDD.md
