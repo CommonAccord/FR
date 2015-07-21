@@ -2,7 +2,7 @@ Model.Root=<body style="margin:40;padding:0"><p align="center">{Logo}</p>{Table.
 
 Logo=<img src="visual/cmacc-trans.png" style="width:25%" />
 
-Table.sec=<table><tr><td width="60%">{IntroContent}</td><td> &emsp; </td><td valign="top">{TwitterBlock.sec}<br> {OtherSites.sec}</td></tr></table>
+Table.sec=<table><tr><td width="60%">{IntroContent}</td><td> &emsp; </td><td valign="top">{TwitterBlock.sec}<br> {ListOfSites.sec}</td></tr></table>
 
 IntroContent={Introduction.sec}<br><br>{DocumentsFolder.sec}<br><br>{PageSource.sec}
 
@@ -27,3 +27,5 @@ AuthorLien=<a href="https://github.com/jjveron">( Introduction par jjveron )</
 Exemple.sec=Exemple (Cliquer ensuite sur Source et Edit pour visualiser les détails) : <a href="http://www.commonaccord.org/index.php?action=doc&file=/FR/AdC/CNRS_AdC_Demo.md">Accord de confidentialité</a>
 
 CodeCivil3.0=Vers un <a href="http://bitly.com/1DWGTxs">Code Civil 3.0</a>
+
+=[?https://raw.githubusercontent.com/CommonAccord/Site-Org/master/Doc/Website/ListOfCommonAccordWebsites.md]
